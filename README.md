@@ -6,9 +6,13 @@ Finally, write a Webservice endpoint, which should use a non-relational database
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.0.
 
+## Install Dependencies
+
+`npm install`
+
 ## Run Project
 
-Run `ng serve --open --env=prod` for a prod server. Navigate to `http://localhost:4200/`.
+`ng serve --open --env=prod`
 
 ## Run Webservice
 
